@@ -1,0 +1,7 @@
+line1 added after staging
+line 2 after commit ..also note that this file is in stage
+g
+ge
+ger
+he
+h
